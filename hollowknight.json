@@ -1,0 +1,38 @@
+{
+    "manifest": {
+        "author": "twixxty",
+        "version": "1.0.0",
+        "name": "Hollow Knight",
+        "updater": "https:\/\/github.com\/twixxty\/Hollow-knight\/raw\/refs\/heads\/main\/hollowknight.json"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Hollow-knight\/refs\/heads\/main\/20251015_154918.jpg",
+        "blur_radius": 0,
+        "overlay_alpha": 100
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/twixxty\/Hollow-knight\/raw\/refs\/heads\/main\/PTSerif-Regular.ttf",
+        "ginto_bold": "https:\/\/github.com\/twixxty\/Hollow-knight\/raw\/refs\/heads\/main\/TrajanPro-Bold.otf"
+    },
+    "simple_colors": {
+        "statusbar": 2571050,
+        "background_secondary": 0,
+        "background": 839848983,
+        "mention_highlight": 2134329685,
+        "accent": -8747378,
+        "active_channel": -13153963,
+        "input_background": -13552327
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -16757654,
+        "primary_dark_200": -2104345,
+        "primary_dark_360": -2104345,
+        "white_800": -15789033,
+        "primary_dark_800": -15789033,
+        "primary_700": -15789033
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -4792584
+    },
+    "raws": {}
+}
