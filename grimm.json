@@ -1,0 +1,39 @@
+{
+  "manifest": {
+    "author": "twixxty",
+    "version": "1.0.0",
+    "updater": "https://github.com/twixxty/Hollow-knight/raw/refs/heads/main/grimm.json",
+    "transparency_mode": 3,
+    "name": "The Grimm Troupe"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/twixxty/Hollow-knight/refs/heads/main/f9bd465e669bc933d9108faa762659b1.jpg",
+    "blur_radius": 2,
+    "overlay_alpha": 100
+  },
+  "fonts": {
+    "*": "https://github.com/twixxty/Hollow-knight/raw/refs/heads/main/PTSerif-Regular.ttf",
+    "ginto_bold": "https://github.com/twixxty/Hollow-knight/raw/refs/heads/main/TrajanPro-Bold.otf"
+  },
+  "simple_colors": {
+    "statusbar": 2571050,
+    "background_secondary": 0,
+    "background": 824646940,
+    "mention_highlight": 2136817467,
+    "accent": -9227221,
+    "active_channel": -10666181,
+    "input_background": -12766671
+  },
+  "colors": {
+    "uikit_btn_bg_color_selector_red": -10666181,
+    "primary_dark_200": -925988,
+    "primary_dark_360": -925988,
+    "white_800": -15068912,
+    "primary_dark_800": -15068912,
+    "primary_700": -15068912
+  },
+  "drawable_tints": {
+    "drawable_button_grey": -10666181
+  },
+  "raws": {}
+}
